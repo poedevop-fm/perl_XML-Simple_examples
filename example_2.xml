@@ -1,0 +1,14 @@
+<data>
+	<config>
+		<name>example 1</name>
+		<fullname>example one of the XML::Simple</fullname>
+	</config>
+	<config>
+		<name>example 2</name>
+		<fullname>example two of the XML::Simple</fullname>
+	</config>
+	<config>
+		<name>atl.pl</name>
+		<fullname>this is where stephen loses his mind.... ;) </fullname>
+	</config>
+</data>
