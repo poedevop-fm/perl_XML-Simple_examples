@@ -4,7 +4,7 @@ here are some really simple examples of perl's XML::Simple.
 
 ## example_1
 
-the more basic example.
+the most basic example.
 
 ## example_2
 
