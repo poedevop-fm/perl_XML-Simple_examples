@@ -10,3 +10,6 @@ the most basic example.
 
 a slightly more complex example. still really simple.
 
+## example_3
+
+a slightly even more complex example. still fairly simple. this one has arrays within an item (which is part of an array).

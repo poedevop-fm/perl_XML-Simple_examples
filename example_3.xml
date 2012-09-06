@@ -1,0 +1,25 @@
+<data>
+	<config>
+		<name>example 1</name>
+		<fullname>example one of the XML::Simple</fullname>
+		<filename>example_1.pl</filename>
+		<filename>example_1.xml</filename>
+	</config>
+	<config>
+		<name>example 2</name>
+		<fullname>example two of the XML::Simple</fullname>
+		<filename>example_2.pl</filename>
+		<filename>example_2.xml</filename>
+	</config>
+	<config>
+		<name>example 3</name>
+		<fullname>example three of the XML::Simple</fullname>
+		<filename>example_3.pl</filename>
+		<filename>example_3.xml</filename>
+		<filename>example_3.txt</filename>
+	</config>
+	<config>
+		<name>atl.pl</name>
+		<fullname>this is where stephen loses his mind.... ;) </fullname>
+	</config>
+</data>
